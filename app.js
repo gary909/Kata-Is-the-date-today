@@ -12,7 +12,3 @@ function isToday(date) {
         return false
     }
 }
-
-
-console.log(isToday(12)); // 
-console.log(isToday(12)); // 
